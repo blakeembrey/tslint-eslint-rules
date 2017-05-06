@@ -8,6 +8,8 @@
 
 # ESLint rules for TSLint
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/tslint-eslint-rules.svg)](https://greenkeeper.io/)
+
 ## Improve your TSLint with the missing ESLint Rules
 
 You want to code in TypeScript but miss all the rules available in ESLint?
